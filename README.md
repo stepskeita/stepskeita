@@ -1,5 +1,5 @@
 # 💫 About Me:
-Javascript Developer. Yap, I develop web and mobile apps using JS, <br>Anything else about me is is bonus and am not funny.
+Javascript Developer. Yap, I develop web and mobile apps using JS, <br>Anything else about me bonus, and am not funny.
 
 
 ## 🌐 Socials:
