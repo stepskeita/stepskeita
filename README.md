@@ -1,5 +1,7 @@
+# Hi there, I'm STEPS Keita 👋
+
 # 💫 About Me:
-Javascript Developer. Yap, I develop web and mobile apps using JS, <br>Anything else about me bonus, and am not funny.
+I'm a Javascript Developer based in The Gambia. I develop web and mobile apps using JavaScript and various frameworks. Passionate about learning and building innovative solutions.
 
 
 ## 🌐 Socials:
